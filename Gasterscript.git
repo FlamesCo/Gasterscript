@@ -1,0 +1,61 @@
+Table of Contents
+Introduction
+Features
+Requirements
+Installation
+Usage
+Contributing
+License
+Acknowledgments
+Introduction
+GasterScript v0 is a Software Development Kit (SDK) designed to test and debug FunValue mods for the game Deltarune. This SDK aims to provide a comprehensive set of tools for mod developers to validate their FunValue modifications, ensuring compatibility and stability.
+
+Features
+FunValue Testing: Quickly test various FunValue settings in Deltarune.
+Debugging Tools: Advanced debugging features to troubleshoot issues.
+Compatibility Checks: Ensure your mod is compatible with different game versions.
+User-Friendly Interface: Easy-to-use GUI for all levels of users.
+Documentation: Comprehensive guides and API documentation.
+Requirements
+macOS M1 or Intel-based machine
+Deltarune game installed
+Java JDK and JRE (for Mac users)
+GCC for M1 Intel RTX 4090 (for compiling source code)
+Installation
+Clone the Repository
+
+bash
+Copy code
+git clone https://github.com/FlamesCo/GasterScript.git
+Navigate to the Directory
+
+bash
+Copy code
+cd GasterScript
+Compile the Source Code
+
+go
+Copy code
+make
+Run the Installer
+
+bash
+Copy code
+sudo ./install.sh
+Usage
+Please refer to the User Guide for detailed instructions on how to use GasterScript v0.
+
+Contributing
+We welcome contributions from the community. Please refer to the Contributing Guidelines for more information.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+Special thanks to the Deltarune community for their invaluable insights.
+Inspired by VeraCrypt's robust and secure system.
+Feel free to adapt this README to fit the specific needs and features of your project. This should provide a good starting point for your GitHub repository.
+
+
+
+
